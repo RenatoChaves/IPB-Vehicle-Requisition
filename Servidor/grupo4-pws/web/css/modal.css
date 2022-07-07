@@ -1,0 +1,38 @@
+.modal-header{
+    background-color:#830053;
+    justify-content: center;
+    color: white;
+    font-weight: bold;
+}
+.modal-footer{
+    border-top: 3px solid #830053;
+}
+.close{
+      color: white;
+      opacity: initial;
+}
+.linha{
+    border-bottom: 3px solid #830053;
+}
+
+.form-control{
+    border: 1px solid black;
+}
+
+label{
+    font-weight: bold;
+}
+
+b{
+    color: #830053;
+    text-decoration: underline;
+}
+.cor {
+    border-right: 3px solid #830053;
+}
+.btn-success{
+    color: white !important;
+    background-color: seagreen !important;
+    border-color: seagreen !important;
+    background-image: none !important;
+}

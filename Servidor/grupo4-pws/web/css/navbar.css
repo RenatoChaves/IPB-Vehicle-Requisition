@@ -1,0 +1,31 @@
+.navbar-dark{
+    color:white !important;
+}
+
+.sticky-top{
+    z-index: auto;
+}
+.jumbo-edit{
+    color: white;
+}
+
+.color-me{
+    color: white;
+}
+
+.color-me:hover{
+    font-weight: bold;
+    color:white;
+}
+
+.nav-link{
+    text-align: center;
+}
+
+.coluna_dropdown{
+    background-color: #830053;
+}
+
+.barra-navegacao{
+    background-color: #B16194;
+}
